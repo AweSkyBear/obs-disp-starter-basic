@@ -21,7 +21,7 @@ Then open `localhost:9000` in your browser.
 
 **To build for production**
 ```
-npm build
+npm run build
 ```
 
 This will output minified `dist/index.js`
